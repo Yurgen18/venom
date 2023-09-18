@@ -1,0 +1,77 @@
+body{
+    width: 100%;
+    background:url(../img/image\ 2.png) ;
+    position: fixed;
+}
+
+header{
+    display: flex;
+}
+
+h1{
+    margin: 0px 0px 0px 200px;
+color:#fff;
+}
+
+p{
+    font-size: 26px;
+    margin: 0px 25px 20px 200px;
+    color: #fff;
+}
+
+.logo {
+    margin: 20px 25px 20px 200px;
+    width: 46px;
+    height: 71px;
+    top: 40px;
+    left: 110px;
+
+}
+
+
+
+.btn2{
+    border-radius: 5px;
+    border: 0px ;
+    color:  #fff;
+    background-color: #242424;
+    padding: 15px 30px;
+}
+
+.btn1{
+    
+    border-radius: 5px;
+    border: 0px ;
+    color:  #8D0019;
+    background-color: #fff;
+    margin: 15px 0px 15px 200px;
+    padding: 15px 30px;
+}
+
+nav{
+    margin: 50px 25px 20px 0px;
+}
+
+a{
+    
+    padding: 10px;
+    text-decoration: none;
+    color:white;
+    visibility: 50%;
+}
+.blood{
+     position: absolute;
+    right: 0px;
+    top:0px;
+}
+
+.Venom-Word{
+    width: 1300px;
+    height: 600px;
+    margin: 0px 0px 0px 200px;
+}
+.Venom{
+    position: absolute;
+    right: 0px;
+   top: 0px;
+}
